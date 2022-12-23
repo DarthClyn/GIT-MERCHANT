@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GIT-MERCHANT- Harshit Saini.
+- 👀 I’m interested in Python and Web3 projects (blockchain).
+- 🌱 I’m currently learning Solidity , pyscript.
+- 💞️ I’m looking to collaborate on Web3 projects.
+- 📫 How to reach me e-mail: harshitsaini2002@gmail.com
